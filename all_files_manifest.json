@@ -1,0 +1,1137 @@
+﻿[
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\1 - 2026年CIMC工业嵌入式系统开发方向（试）初赛 - 样题.pdf",
+        "Extension":  ".pdf",
+        "Length":  1039914
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\1_2 - 2026年CIMC工业嵌入式系统开发方向（试）初赛说明20260306.pdf",
+        "Extension":  ".pdf",
+        "Length":  442984
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\all_files_manifest.json",
+        "Extension":  ".json",
+        "Length":  0
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\keilkilll.bat",
+        "Extension":  ".bat",
+        "Length":  399
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\README.md",
+        "Extension":  ".md",
+        "Length":  13286
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\备份框架.zip",
+        "Extension":  ".zip",
+        "Length":  13946819
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\附件2 方案设计.pdf",
+        "Extension":  ".pdf",
+        "Length":  2845829
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\adc_app.c",
+        "Extension":  ".c",
+        "Length":  5695
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\adc_app.h",
+        "Extension":  ".h",
+        "Length":  261
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\bsp_system.h",
+        "Extension":  ".h",
+        "Length":  2218
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\key_app.c",
+        "Extension":  ".c",
+        "Length":  1703
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\key_app.h",
+        "Extension":  ".h",
+        "Length":  122
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\led_app.c",
+        "Extension":  ".c",
+        "Length":  1583
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\led_app.h",
+        "Extension":  ".h",
+        "Length":  140
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\my_sd.c",
+        "Extension":  ".c",
+        "Length":  1637
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\my_sd.h",
+        "Extension":  ".h",
+        "Length":  96
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\OLED.c",
+        "Extension":  ".c",
+        "Length":  12697
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\OLED.h",
+        "Extension":  ".h",
+        "Length":  2034
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\OLEDfont.h",
+        "Extension":  ".h",
+        "Length":  55492
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\oled_app.c",
+        "Extension":  ".c",
+        "Length":  972
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\oled_app.h",
+        "Extension":  ".h",
+        "Length":  100
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\rtc_app.c",
+        "Extension":  ".c",
+        "Length":  6937
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\rtc_app.h",
+        "Extension":  ".h",
+        "Length":  769
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\scheduler.c",
+        "Extension":  ".c",
+        "Length":  751
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\sdcard_app.c",
+        "Extension":  ".c",
+        "Length":  10971
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\sdcard_app.h",
+        "Extension":  ".h",
+        "Length":  309
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\SPI_FLASH.c",
+        "Extension":  ".c",
+        "Length":  16020
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\SPI_FLASH.h",
+        "Extension":  ".h",
+        "Length":  2191
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\str_app.c",
+        "Extension":  ".c",
+        "Length":  9323
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\str_app.h",
+        "Extension":  ".h",
+        "Length":  369
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\system_init.c",
+        "Extension":  ".c",
+        "Length":  844
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\system_init.h",
+        "Extension":  ".h",
+        "Length":  120
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\uart_app.c",
+        "Extension":  ".c",
+        "Length":  6736
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\APP\\uart_app.h",
+        "Extension":  ".h",
+        "Length":  153
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\core_cm4.h",
+        "Extension":  ".h",
+        "Length":  109878
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\core_cm4_simd.h",
+        "Extension":  ".h",
+        "Length":  22959
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\core_cmFunc.h",
+        "Extension":  ".h",
+        "Length":  15828
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\core_cmInstr.h",
+        "Extension":  ".h",
+        "Length":  17205
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Include\\gd32f4xx.h",
+        "Extension":  ".h",
+        "Length":  28808
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Include\\system_gd32f4xx.h",
+        "Extension":  ".h",
+        "Length":  2484
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\system_gd32f4xx.c",
+        "Extension":  ".c",
+        "Length":  36416
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\ARM\\startup_gd32f405_425.s",
+        "Extension":  ".s",
+        "Length":  21757
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\ARM\\startup_gd32f407_427.s",
+        "Extension":  ".s",
+        "Length":  22101
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\ARM\\startup_gd32f450_470.s",
+        "Extension":  ".s",
+        "Length":  23659
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\IAR\\startup_gd32f405_425.s",
+        "Extension":  ".s",
+        "Length":  25159
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\IAR\\startup_gd32f407_427.s",
+        "Extension":  ".s",
+        "Length":  25736
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\CMSIS\\GD\\GD32F4xx\\Source\\IAR\\startup_gd32f450_470.s",
+        "Extension":  ".s",
+        "Length":  27837
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\00readme.txt",
+        "Extension":  ".txt",
+        "Length":  6505
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\diskio.c",
+        "Extension":  ".c",
+        "Length":  5979
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\diskio.h",
+        "Extension":  ".h",
+        "Length":  2438
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\ff.c",
+        "Extension":  ".c",
+        "Length":  141694
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\ff.h",
+        "Extension":  ".h",
+        "Length":  12334
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\ffconf.h",
+        "Extension":  ".h",
+        "Length":  7519
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\integer.h",
+        "Extension":  ".h",
+        "Length":  856
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\sdio_sdcard.c",
+        "Extension":  ".c",
+        "Length":  97960
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\sdio_sdcard.h",
+        "Extension":  ".h",
+        "Length":  15904
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\unicode.c",
+        "Extension":  ".c",
+        "Length":  4670
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\cc932.c",
+        "Extension":  ".c",
+        "Length":  249488
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\cc936.c",
+        "Extension":  ".c",
+        "Length":  724232
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\cc949.c",
+        "Extension":  ".c",
+        "Length":  567684
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\cc950.c",
+        "Extension":  ".c",
+        "Length":  450696
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\ccsbcs.c",
+        "Extension":  ".c",
+        "Length":  30169
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\fatfs\\option\\syscall.c",
+        "Extension":  ".c",
+        "Length":  4709
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\thisislibrary.md",
+        "Extension":  ".md",
+        "Length":  2
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_adc.h",
+        "Extension":  ".h",
+        "Length":  41521
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_can.h",
+        "Extension":  ".h",
+        "Length":  54440
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_crc.h",
+        "Extension":  ".h",
+        "Length":  3380
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_ctc.h",
+        "Extension":  ".h",
+        "Length":  11513
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_dac.h",
+        "Extension":  ".h",
+        "Length":  18761
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_dbg.h",
+        "Extension":  ".h",
+        "Length":  9890
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_dci.h",
+        "Extension":  ".h",
+        "Length":  13665
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_dma.h",
+        "Extension":  ".h",
+        "Length":  32675
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_enet.h",
+        "Extension":  ".h",
+        "Length":  144084
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_exmc.h",
+        "Extension":  ".h",
+        "Length":  64299
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_exti.h",
+        "Extension":  ".h",
+        "Length":  20470
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_fmc.h",
+        "Extension":  ".h",
+        "Length":  28322
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_fwdgt.h",
+        "Extension":  ".h",
+        "Length":  5876
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_gpio.h",
+        "Extension":  ".h",
+        "Length":  29164
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_i2c.h",
+        "Extension":  ".h",
+        "Length":  29826
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_ipa.h",
+        "Extension":  ".h",
+        "Length":  25918
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_iref.h",
+        "Extension":  ".h",
+        "Length":  13448
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_misc.h",
+        "Extension":  ".h",
+        "Length":  4691
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_pmu.h",
+        "Extension":  ".h",
+        "Length":  11878
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_rcu.h",
+        "Extension":  ".h",
+        "Length":  95768
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_rtc.h",
+        "Extension":  ".h",
+        "Length":  52407
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_sdio.h",
+        "Extension":  ".h",
+        "Length":  30655
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_spi.h",
+        "Extension":  ".h",
+        "Length":  25831
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_syscfg.h",
+        "Extension":  ".h",
+        "Length":  11558
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_timer.h",
+        "Extension":  ".h",
+        "Length":  59717
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_tli.h",
+        "Extension":  ".h",
+        "Length":  23557
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_trng.h",
+        "Extension":  ".h",
+        "Length":  4431
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_usart.h",
+        "Extension":  ".h",
+        "Length":  31652
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Include\\gd32f4xx_wwdgt.h",
+        "Extension":  ".h",
+        "Length":  4561
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_adc.c",
+        "Extension":  ".c",
+        "Length":  49331
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_can.c",
+        "Extension":  ".c",
+        "Length":  40297
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_crc.c",
+        "Extension":  ".c",
+        "Length":  3904
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_ctc.c",
+        "Extension":  ".c",
+        "Length":  12892
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_dac.c",
+        "Extension":  ".c",
+        "Length":  22641
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_dbg.c",
+        "Extension":  ".c",
+        "Length":  7772
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_dci.c",
+        "Extension":  ".c",
+        "Length":  10290
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_dma.c",
+        "Extension":  ".c",
+        "Length":  36449
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_enet.c",
+        "Extension":  ".c",
+        "Length":  151999
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_exmc.c",
+        "Extension":  ".c",
+        "Length":  57117
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_exti.c",
+        "Extension":  ".c",
+        "Length":  8423
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_fmc.c",
+        "Extension":  ".c",
+        "Length":  34852
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_fwdgt.c",
+        "Extension":  ".c",
+        "Length":  7007
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_gpio.c",
+        "Extension":  ".c",
+        "Length":  15061
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_i2c.c",
+        "Extension":  ".c",
+        "Length":  30805
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_ipa.c",
+        "Extension":  ".c",
+        "Length":  26662
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_iref.c",
+        "Extension":  ".c",
+        "Length":  3544
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_misc.c",
+        "Extension":  ".c",
+        "Length":  7136
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_pmu.c",
+        "Extension":  ".c",
+        "Length":  11909
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_rcu.c",
+        "Extension":  ".c",
+        "Length":  50047
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_rtc.c",
+        "Extension":  ".c",
+        "Length":  46946
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_sdio.c",
+        "Extension":  ".c",
+        "Length":  28412
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_spi.c",
+        "Extension":  ".c",
+        "Length":  30670
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_syscfg.c",
+        "Extension":  ".c",
+        "Length":  7949
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_timer.c",
+        "Extension":  ".c",
+        "Length":  89361
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_tli.c",
+        "Extension":  ".c",
+        "Length":  24645
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_trng.c",
+        "Extension":  ".c",
+        "Length":  4471
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_usart.c",
+        "Extension":  ".c",
+        "Length":  34715
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_standard_peripheral\\Source\\gd32f4xx_wwdgt.c",
+        "Extension":  ".c",
+        "Length":  4154
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\audio\\Include\\audio_core.h",
+        "Extension":  ".h",
+        "Length":  15519
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\audio\\Include\\audio_out_itf.h",
+        "Extension":  ".h",
+        "Length":  2160
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\audio\\Source\\audio_core.c",
+        "Extension":  ".c",
+        "Length":  32764
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\audio\\Source\\audio_out_itf.c",
+        "Extension":  ".c",
+        "Length":  5562
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\cdc\\Include\\cdc_acm_core.h",
+        "Extension":  ".h",
+        "Length":  2477
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\cdc\\Source\\cdc_acm_core.c",
+        "Extension":  ".c",
+        "Length":  16372
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\dfu\\Include\\dfu_core.h",
+        "Extension":  ".h",
+        "Length":  5797
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\dfu\\Include\\dfu_mem.h",
+        "Extension":  ".h",
+        "Length":  3486
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\dfu\\Source\\dfu_core.c",
+        "Extension":  ".c",
+        "Length":  22962
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\dfu\\Source\\dfu_mem.c",
+        "Extension":  ".c",
+        "Length":  7439
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\hid\\Include\\custom_hid_core.h",
+        "Extension":  ".h",
+        "Length":  2613
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\hid\\Include\\standard_hid_core.h",
+        "Extension":  ".h",
+        "Length":  2641
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\hid\\Source\\custom_hid_core.c",
+        "Extension":  ".c",
+        "Length":  15351
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\hid\\Source\\standard_hid_core.c",
+        "Extension":  ".c",
+        "Length":  14464
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\iap\\Include\\usb_iap_core.h",
+        "Extension":  ".h",
+        "Length":  3365
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\iap\\Source\\usb_iap_core.c",
+        "Extension":  ".c",
+        "Length":  17323
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Include\\usbd_msc_bbb.h",
+        "Extension":  ".h",
+        "Length":  3661
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Include\\usbd_msc_core.h",
+        "Extension":  ".h",
+        "Length":  2378
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Include\\usbd_msc_mem.h",
+        "Extension":  ".h",
+        "Length":  2502
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Include\\usbd_msc_scsi.h",
+        "Extension":  ".h",
+        "Length":  2586
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Source\\usbd_msc_bbb.c",
+        "Extension":  ".c",
+        "Length":  9558
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Source\\usbd_msc_core.c",
+        "Extension":  ".c",
+        "Length":  12118
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\msc\\Source\\usbd_msc_scsi.c",
+        "Extension":  ".c",
+        "Length":  23966
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\printer\\Include\\printer_core.h",
+        "Extension":  ".h",
+        "Length":  2952
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\class\\printer\\Source\\printer_core.c",
+        "Extension":  ".c",
+        "Length":  10098
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Include\\usbd_core.h",
+        "Extension":  ".h",
+        "Length":  4285
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Include\\usbd_enum.h",
+        "Extension":  ".h",
+        "Length":  4481
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Include\\usbd_transc.h",
+        "Extension":  ".h",
+        "Length":  2554
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Source\\usbd_core.c",
+        "Extension":  ".c",
+        "Length":  9625
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Source\\usbd_enum.c",
+        "Extension":  ".c",
+        "Length":  25246
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\device\\core\\Source\\usbd_transc.c",
+        "Extension":  ".c",
+        "Length":  8216
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usbd_int.h",
+        "Extension":  ".h",
+        "Length":  2353
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usbh_int.h",
+        "Extension":  ".h",
+        "Length":  2238
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usb_core.h",
+        "Extension":  ".h",
+        "Length":  16225
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usb_dev.h",
+        "Extension":  ".h",
+        "Length":  7463
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usb_host.h",
+        "Extension":  ".h",
+        "Length":  4234
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usb_hw.h",
+        "Extension":  ".h",
+        "Length":  2524
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Include\\drv_usb_regs.h",
+        "Extension":  ".h",
+        "Length":  47626
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Source\\drv_usbd_int.c",
+        "Extension":  ".c",
+        "Length":  18806
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Source\\drv_usbh_int.c",
+        "Extension":  ".c",
+        "Length":  19908
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Source\\drv_usb_core.c",
+        "Extension":  ".c",
+        "Length":  11987
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Source\\drv_usb_dev.c",
+        "Extension":  ".c",
+        "Length":  20045
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\driver\\Source\\drv_usb_host.c",
+        "Extension":  ".c",
+        "Length":  14019
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\hid\\Include\\usbh_hid_core.h",
+        "Extension":  ".h",
+        "Length":  3872
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\hid\\Include\\usbh_standard_hid.h",
+        "Extension":  ".h",
+        "Length":  3643
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\hid\\Source\\usbh_hid_core.c",
+        "Extension":  ".c",
+        "Length":  19621
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\hid\\Source\\usbh_standard_hid.c",
+        "Extension":  ".c",
+        "Length":  12297
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Include\\usbh_msc_bbb.h",
+        "Extension":  ".h",
+        "Length":  4862
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Include\\usbh_msc_core.h",
+        "Extension":  ".h",
+        "Length":  4017
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Include\\usbh_msc_scsi.h",
+        "Extension":  ".h",
+        "Length":  4023
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Source\\usbh_msc_bbb.c",
+        "Extension":  ".c",
+        "Length":  12775
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Source\\usbh_msc_core.c",
+        "Extension":  ".c",
+        "Length":  19135
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Source\\usbh_msc_fatfs.c",
+        "Extension":  ".c",
+        "Length":  6566
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\class\\msc\\Source\\usbh_msc_scsi.c",
+        "Extension":  ".c",
+        "Length":  13523
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Include\\usbh_core.h",
+        "Extension":  ".h",
+        "Length":  9483
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Include\\usbh_enum.h",
+        "Extension":  ".h",
+        "Length":  3728
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Include\\usbh_pipe.h",
+        "Extension":  ".h",
+        "Length":  3864
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Include\\usbh_transc.h",
+        "Extension":  ".h",
+        "Length":  2382
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Source\\usbh_core.c",
+        "Extension":  ".c",
+        "Length":  21223
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Source\\usbh_enum.c",
+        "Extension":  ".c",
+        "Length":  22658
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Source\\usbh_pipe.c",
+        "Extension":  ".c",
+        "Length":  5663
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\host\\core\\Source\\usbh_transc.c",
+        "Extension":  ".c",
+        "Length":  11033
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\class\\cdc\\usb_cdc.h",
+        "Extension":  ".h",
+        "Length":  8963
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\class\\hid\\usb_hid.h",
+        "Extension":  ".h",
+        "Length":  3297
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\class\\msc\\msc_bbb.h",
+        "Extension":  ".h",
+        "Length":  2548
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\class\\msc\\msc_scsi.h",
+        "Extension":  ".h",
+        "Length":  4916
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\class\\msc\\usb_msc.h",
+        "Extension":  ".h",
+        "Length":  2881
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\GD32F4xx_usb_library\\ustd\\common\\usb_ch9_std.h",
+        "Extension":  ".h",
+        "Length":  13673
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\readme.txt",
+        "Extension":  ".txt",
+        "Length":  5239
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\inc\\diskio.h",
+        "Extension":  ".h",
+        "Length":  1841
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\inc\\fattime.h",
+        "Extension":  ".h",
+        "Length":  83
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\inc\\ff.h",
+        "Extension":  ".h",
+        "Length":  29899
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\inc\\ffconf.h",
+        "Extension":  ".h",
+        "Length":  6339
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\inc\\integer.h",
+        "Extension":  ".h",
+        "Length":  970
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\src\\diskio.c",
+        "Extension":  ".c",
+        "Length":  4124
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\src\\fattime.c",
+        "Extension":  ".c",
+        "Length":  123
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\src\\ff.c",
+        "Extension":  ".c",
+        "Length":  100254
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\src\\option\\ccsbcs.c",
+        "Extension":  ".c",
+        "Length":  30181
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Library\\Third_Party\\fat_fs\\src\\option\\syncobj.c",
+        "Extension":  ".c",
+        "Length":  3709
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\cimc_project.uvguix.jiyil",
+        "Extension":  ".jiyil",
+        "Length":  189724
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\cimc_project.uvguix.TimStarling",
+        "Extension":  ".TimStarling",
+        "Length":  188973
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\cimc_project.uvoptx",
+        "Extension":  ".uvoptx",
+        "Length":  31005
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\cimc_project.uvprojx",
+        "Extension":  ".uvprojx",
+        "Length":  26441
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\EventRecorderStub.scvd",
+        "Extension":  ".scvd",
+        "Length":  339
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\RTE\\_CIMC_GD32_OLED_driver\\RTE_Components.h",
+        "Extension":  ".h",
+        "Length":  346
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\project\\RTE\\_cimc_project\\RTE_Components.h",
+        "Extension":  ".h",
+        "Length":  337
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Startup\\startup_gd32f407_427.s",
+        "Extension":  ".s",
+        "Length":  22049
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\Startup\\startup_gd32f450_470.s",
+        "Extension":  ".s",
+        "Length":  23659
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\gd32f4xx_it.c",
+        "Extension":  ".c",
+        "Length":  4009
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\gd32f4xx_it.h",
+        "Extension":  ".h",
+        "Length":  2539
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\gd32f4xx_libopt.h",
+        "Extension":  ".h",
+        "Length":  3037
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\main.c",
+        "Extension":  ".c",
+        "Length":  373
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\systick.c",
+        "Extension":  ".c",
+        "Length":  3218
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\User\\systick.h",
+        "Extension":  ".h",
+        "Length":  1981
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\1 2025年CIMC工业嵌入式系统开发（筹）初赛赛题.pdf",
+        "Extension":  ".pdf",
+        "Length":  805016
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\2 工业嵌入式系统开发方向 - 初赛说明（初赛更新版本）.pdf",
+        "Extension":  ".pdf",
+        "Length":  2411415
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\2025年CIMC嵌入式初赛赛题.zip",
+        "Extension":  ".zip",
+        "Length":  4194199
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\4 2025年CIMC工业嵌入式系统开发（筹）初赛PPT模板.pptx",
+        "Extension":  ".pptx",
+        "Length":  1093495
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\CIMC报告.docx",
+        "Extension":  ".docx",
+        "Length":  3340259
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\数据校验工具.exe",
+        "Extension":  ".exe",
+        "Length":  9728
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\TF卡demo\\config.ini",
+        "Extension":  ".ini",
+        "Length":  43
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\TF卡demo\\hideData\\hideData20250101003010.txt",
+        "Extension":  ".txt",
+        "Length":  248
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\TF卡demo\\log\\log0.txt",
+        "Extension":  ".txt",
+        "Length":  638
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\TF卡demo\\overLimit\\overLimit20250101003010.txt",
+        "Extension":  ".txt",
+        "Length":  173
+    },
+    {
+        "FullName":  "C:\\CIMC\\CIMC\\赛题\\TF卡demo\\sample\\sampleData20250101003010.txt",
+        "Extension":  ".txt",
+        "Length":  128
+    }
+]
